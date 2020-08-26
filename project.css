@@ -1,0 +1,90 @@
+*
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header
+{
+    background-color:rgb(240, 227, 182);
+}
+#logo
+{
+  padding-left: 130px;
+  padding-top: 10px;
+}
+button
+{
+	color: white;
+    background-color: rgb(118, 118, 238);
+    border-color: rgb(118, 118, 238);
+    margin-right: 8px;
+} 
+p
+{
+    color: slategray;
+}
+ul
+{
+    list-style-type: none;
+}
+ul li
+{
+    display: inline;
+}
+ul li a
+{
+	text-decoration: none;
+    color:black;
+    border: 1px solid transparent;
+    padding: 4px 18px; 
+}
+.middle
+{
+    text-align: center;
+}
+.side
+{
+   text-align: right;
+   padding-bottom: 10px;
+   padding-right: 30px;
+}
+.hero
+{
+   background-color:silver;  
+   text-align: center;
+   padding: 10px;
+}
+.content
+{
+    text-align: center;
+}
+.order
+{
+  
+}
+.pic
+{
+    position: absolute ;
+    left: 70%;
+    top: 149%;
+ 
+}
+#lead
+{
+    margin-right: 300px;
+    padding-left: 40px;
+}
+.last
+{
+    
+}  
+footer
+{
+    background-color:silver;  
+    color: black;
+    padding: 5px
+} 
+footer h4
+{
+    color: black;
+    text-align: center;
+} 
